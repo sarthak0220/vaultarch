@@ -1,0 +1,856 @@
+2025-05-02 05:29:05,232 - INFO - Source directory: ()
+2025-05-02 05:29:12,725 - INFO - Destination directory: ()
+2025-05-02 05:30:17,487 - INFO - Source directory: /mnt/d
+2025-05-02 05:30:41,846 - INFO - Destination directory: /mnt/d
+2025-05-02 09:51:15,724 - INFO - Destination directory: ()
+2025-05-02 09:52:00,049 - INFO - Source directory: /mnt/d
+2025-05-02 09:52:11,838 - INFO - Destination directory: /mnt/d
+2025-05-02 09:52:56,076 - INFO - Source directory: /mnt/d
+2025-05-02 09:53:04,463 - INFO - Destination directory: /mnt/d
+2025-05-03 20:22:44,371 - INFO - Source directory: D:/bluetooth
+2025-05-03 20:23:10,965 - INFO - Destination directory: D:/apps
+2025-05-03 20:23:13,405 - INFO - Progress: 5% | Speed: 3.33 MB/s | ETA: 0m 2s
+2025-05-03 20:23:13,514 - INFO - Progress: 11% | Speed: 2.48 MB/s | ETA: 0m 2s
+2025-05-03 20:23:13,583 - INFO - Progress: 16% | Speed: 2.72 MB/s | ETA: 0m 2s
+2025-05-03 20:23:13,623 - INFO - Progress: 22% | Speed: 2.77 MB/s | ETA: 0m 2s
+2025-05-03 20:23:13,628 - INFO - Progress: 27% | Speed: 3.66 MB/s | ETA: 0m 1s
+2025-05-03 20:23:13,692 - INFO - Progress: 33% | Speed: 3.16 MB/s | ETA: 0m 2s
+2025-05-03 20:23:13,703 - INFO - Progress: 38% | Speed: 3.33 MB/s | ETA: 0m 1s
+2025-05-03 20:23:13,722 - INFO - Progress: 44% | Speed: 3.44 MB/s | ETA: 0m 1s
+2025-05-03 20:23:13,733 - INFO - Progress: 50% | Speed: 3.64 MB/s | ETA: 0m 1s
+2025-05-03 20:23:13,813 - INFO - Progress: 55% | Speed: 3.15 MB/s | ETA: 0m 1s
+2025-05-03 20:23:13,853 - INFO - Progress: 61% | Speed: 3.02 MB/s | ETA: 0m 2s
+2025-05-03 20:23:14,367 - INFO - Progress: 66% | Speed: 1.66 MB/s | ETA: 0m 3s
+2025-05-03 20:23:14,395 - INFO - Progress: 72% | Speed: 2.55 MB/s | ETA: 0m 1s
+2025-05-03 20:23:14,421 - INFO - Progress: 77% | Speed: 3.84 MB/s | ETA: 0m 0s
+2025-05-03 20:23:14,440 - INFO - Progress: 83% | Speed: 5.79 MB/s | ETA: 0m 0s
+2025-05-03 20:23:14,465 - INFO - Progress: 88% | Speed: 6.53 MB/s | ETA: 0m 0s
+2025-05-03 20:23:14,477 - INFO - Progress: 94% | Speed: 6.49 MB/s | ETA: 0m 0s
+2025-05-03 20:23:14,495 - INFO - Progress: 100% | Speed: 6.48 MB/s | ETA: 0m 0s
+2025-05-03 20:23:14,495 - INFO - Compressing backup...
+2025-05-03 20:23:14,926 - INFO - Backup complete. Saved to: D:/apps\backup.tar.gz
+2025-05-03 14:55:33,712 - INFO - Source directory: /mnt/d/bluetooth
+2025-05-03 14:55:46,156 - INFO - Destination directory: /mnt/d/course certificate
+2025-05-03 14:55:48,372 - INFO - Progress: 5% | Speed: 11.08 MB/s | ETA: 0m 0s
+2025-05-03 14:55:48,402 - INFO - Progress: 11% | Speed: 8.51 MB/s | ETA: 0m 0s
+2025-05-03 14:55:48,435 - INFO - Progress: 16% | Speed: 8.21 MB/s | ETA: 0m 0s
+2025-05-03 14:55:48,462 - INFO - Progress: 22% | Speed: 7.41 MB/s | ETA: 0m 0s
+2025-05-03 14:55:48,497 - INFO - Progress: 27% | Speed: 7.84 MB/s | ETA: 0m 0s
+2025-05-03 14:55:48,524 - INFO - Progress: 33% | Speed: 6.85 MB/s | ETA: 0m 0s
+2025-05-03 14:55:48,555 - INFO - Progress: 38% | Speed: 6.37 MB/s | ETA: 0m 1s
+2025-05-03 14:55:48,584 - INFO - Progress: 44% | Speed: 6.1 MB/s | ETA: 0m 1s
+2025-05-03 14:55:48,611 - INFO - Progress: 50% | Speed: 5.96 MB/s | ETA: 0m 1s
+2025-05-03 14:55:48,638 - INFO - Progress: 55% | Speed: 5.53 MB/s | ETA: 0m 1s
+2025-05-03 14:55:48,666 - INFO - Progress: 61% | Speed: 5.2 MB/s | ETA: 0m 1s
+2025-05-03 14:55:48,694 - INFO - Progress: 66% | Speed: 5.02 MB/s | ETA: 0m 1s
+2025-05-03 14:55:48,751 - INFO - Progress: 72% | Speed: 6.83 MB/s | ETA: 0m 0s
+2025-05-03 14:55:48,828 - INFO - Progress: 77% | Speed: 8.88 MB/s | ETA: 0m 0s
+2025-05-03 14:55:48,903 - INFO - Progress: 83% | Speed: 11.81 MB/s | ETA: 0m 0s
+2025-05-03 14:55:48,970 - INFO - Progress: 88% | Speed: 12.17 MB/s | ETA: 0m 0s
+2025-05-03 14:55:48,998 - INFO - Progress: 94% | Speed: 11.7 MB/s | ETA: 0m 0s
+2025-05-03 14:55:49,026 - INFO - Progress: 100% | Speed: 11.38 MB/s | ETA: 0m 0s
+2025-05-03 14:55:49,027 - INFO - Compressing backup...
+2025-05-03 14:55:49,586 - INFO - Backup complete. Saved to: /mnt/d/course certificate/backup.tar.gz
+2025-05-03 14:56:51,684 - INFO - Progress: 5% | Speed: 14.8 MB/s | ETA: 0m 0s
+2025-05-03 14:56:51,711 - INFO - Progress: 11% | Speed: 10.64 MB/s | ETA: 0m 0s
+2025-05-03 14:56:51,740 - INFO - Progress: 16% | Speed: 9.9 MB/s | ETA: 0m 0s
+2025-05-03 14:56:51,768 - INFO - Progress: 22% | Speed: 8.51 MB/s | ETA: 0m 0s
+2025-05-03 14:56:51,801 - INFO - Progress: 27% | Speed: 8.79 MB/s | ETA: 0m 0s
+2025-05-03 14:56:51,828 - INFO - Progress: 33% | Speed: 7.57 MB/s | ETA: 0m 0s
+2025-05-03 14:56:51,853 - INFO - Progress: 38% | Speed: 7.14 MB/s | ETA: 0m 0s
+2025-05-03 14:56:51,881 - INFO - Progress: 44% | Speed: 6.76 MB/s | ETA: 0m 0s
+2025-05-03 14:56:51,906 - INFO - Progress: 50% | Speed: 6.58 MB/s | ETA: 0m 0s
+2025-05-03 14:56:51,932 - INFO - Progress: 55% | Speed: 6.07 MB/s | ETA: 0m 1s
+2025-05-03 14:56:51,958 - INFO - Progress: 61% | Speed: 5.72 MB/s | ETA: 0m 1s
+2025-05-03 14:56:51,986 - INFO - Progress: 66% | Speed: 5.47 MB/s | ETA: 0m 1s
+2025-05-03 14:56:52,028 - INFO - Progress: 72% | Speed: 7.67 MB/s | ETA: 0m 0s
+2025-05-03 14:56:52,075 - INFO - Progress: 77% | Speed: 10.46 MB/s | ETA: 0m 0s
+2025-05-03 14:56:52,133 - INFO - Progress: 83% | Speed: 14.09 MB/s | ETA: 0m 0s
+2025-05-03 14:56:52,169 - INFO - Progress: 88% | Speed: 15.1 MB/s | ETA: 0m 0s
+2025-05-03 14:56:52,192 - INFO - Progress: 94% | Speed: 14.47 MB/s | ETA: 0m 0s
+2025-05-03 14:56:52,218 - INFO - Progress: 100% | Speed: 14.01 MB/s | ETA: 0m 0s
+2025-05-03 14:56:52,218 - INFO - Removing duplicate files...
+2025-05-03 14:58:14,905 - INFO - Destination directory: 
+2025-05-03 15:03:49,871 - INFO - Source directory: /mnt/d/bluetooth
+2025-05-03 15:03:58,003 - INFO - Destination directory: /mnt/d/apps
+2025-05-03 15:03:59,833 - INFO - Progress: 5% | Speed: 12.2 MB/s | ETA: 0m 0s
+2025-05-03 15:03:59,864 - INFO - Progress: 11% | Speed: 8.85 MB/s | ETA: 0m 0s
+2025-05-03 15:03:59,893 - INFO - Progress: 16% | Speed: 8.74 MB/s | ETA: 0m 0s
+2025-05-03 15:03:59,925 - INFO - Progress: 22% | Speed: 7.56 MB/s | ETA: 0m 0s
+2025-05-03 15:03:59,957 - INFO - Progress: 27% | Speed: 8.07 MB/s | ETA: 0m 0s
+2025-05-03 15:03:59,987 - INFO - Progress: 33% | Speed: 6.95 MB/s | ETA: 0m 0s
+2025-05-03 15:04:00,018 - INFO - Progress: 38% | Speed: 6.44 MB/s | ETA: 0m 1s
+2025-05-03 15:04:00,050 - INFO - Progress: 44% | Speed: 6.06 MB/s | ETA: 0m 1s
+2025-05-03 15:04:00,080 - INFO - Progress: 50% | Speed: 5.87 MB/s | ETA: 0m 1s
+2025-05-03 15:04:00,107 - INFO - Progress: 55% | Speed: 5.45 MB/s | ETA: 0m 1s
+2025-05-03 15:04:00,135 - INFO - Progress: 61% | Speed: 5.14 MB/s | ETA: 0m 1s
+2025-05-03 15:04:00,163 - INFO - Progress: 66% | Speed: 4.97 MB/s | ETA: 0m 1s
+2025-05-03 15:04:00,205 - INFO - Progress: 72% | Speed: 7.01 MB/s | ETA: 0m 0s
+2025-05-03 15:04:00,256 - INFO - Progress: 77% | Speed: 9.58 MB/s | ETA: 0m 0s
+2025-05-03 15:04:00,319 - INFO - Progress: 83% | Speed: 12.92 MB/s | ETA: 0m 0s
+2025-05-03 15:04:00,364 - INFO - Progress: 88% | Speed: 13.7 MB/s | ETA: 0m 0s
+2025-05-03 15:04:00,397 - INFO - Progress: 94% | Speed: 12.97 MB/s | ETA: 0m 0s
+2025-05-03 15:04:00,428 - INFO - Progress: 100% | Speed: 12.52 MB/s | ETA: 0m 0s
+2025-05-03 15:04:00,429 - INFO - Compressing backup...
+2025-05-03 15:04:01,035 - INFO - Encrypting backup (placeholder)...
+2025-05-03 15:04:01,035 - INFO - Backup complete. Saved to: /mnt/d/apps/backup.tar.gz
+2025-05-03 15:04:06,400 - INFO - Progress: 5% | Speed: 13.39 MB/s | ETA: 0m 0s
+2025-05-03 15:04:06,429 - INFO - Progress: 11% | Speed: 9.74 MB/s | ETA: 0m 0s
+2025-05-03 15:04:06,459 - INFO - Progress: 16% | Speed: 9.24 MB/s | ETA: 0m 0s
+2025-05-03 15:04:06,489 - INFO - Progress: 22% | Speed: 7.98 MB/s | ETA: 0m 0s
+2025-05-03 15:04:06,530 - INFO - Progress: 27% | Speed: 7.92 MB/s | ETA: 0m 0s
+2025-05-03 15:04:06,557 - INFO - Progress: 33% | Speed: 6.94 MB/s | ETA: 0m 0s
+2025-05-03 15:04:06,587 - INFO - Progress: 38% | Speed: 6.46 MB/s | ETA: 0m 1s
+2025-05-03 15:04:06,614 - INFO - Progress: 44% | Speed: 6.23 MB/s | ETA: 0m 1s
+2025-05-03 15:04:06,642 - INFO - Progress: 50% | Speed: 6.03 MB/s | ETA: 0m 1s
+2025-05-03 15:04:06,668 - INFO - Progress: 55% | Speed: 5.62 MB/s | ETA: 0m 1s
+2025-05-03 15:04:06,695 - INFO - Progress: 61% | Speed: 5.31 MB/s | ETA: 0m 1s
+2025-05-03 15:04:06,723 - INFO - Progress: 66% | Speed: 5.09 MB/s | ETA: 0m 1s
+2025-05-03 15:04:06,765 - INFO - Progress: 72% | Speed: 7.19 MB/s | ETA: 0m 0s
+2025-05-03 15:04:06,816 - INFO - Progress: 77% | Speed: 9.81 MB/s | ETA: 0m 0s
+2025-05-03 15:04:06,877 - INFO - Progress: 83% | Speed: 13.23 MB/s | ETA: 0m 0s
+2025-05-03 15:04:06,919 - INFO - Progress: 88% | Speed: 14.07 MB/s | ETA: 0m 0s
+2025-05-03 15:04:06,947 - INFO - Progress: 94% | Speed: 13.42 MB/s | ETA: 0m 0s
+2025-05-03 15:04:06,983 - INFO - Progress: 100% | Speed: 12.83 MB/s | ETA: 0m 0s
+2025-05-03 15:04:06,983 - INFO - Removing duplicate files...
+2025-05-03 20:35:07,824 - INFO - Source directory: D:/bluetooth
+2025-05-03 20:35:12,949 - INFO - Destination directory: D:/apps
+2025-05-03 20:35:14,871 - INFO - Progress: 5% | Speed: 69.71 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,876 - INFO - Progress: 11% | Speed: 64.96 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,881 - INFO - Progress: 16% | Speed: 55.3 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,885 - INFO - Progress: 22% | Speed: 50.24 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,898 - INFO - Progress: 27% | Speed: 38.73 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,904 - INFO - Progress: 33% | Speed: 35.18 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,910 - INFO - Progress: 38% | Speed: 33.15 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,915 - INFO - Progress: 44% | Speed: 31.47 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,917 - INFO - Progress: 50% | Speed: 30.89 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,919 - INFO - Progress: 55% | Speed: 30.36 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,921 - INFO - Progress: 61% | Speed: 30.14 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,923 - INFO - Progress: 66% | Speed: 30.44 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,926 - INFO - Progress: 72% | Speed: 46.45 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,929 - INFO - Progress: 77% | Speed: 68.09 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,932 - INFO - Progress: 83% | Speed: 98.32 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,935 - INFO - Progress: 88% | Speed: 109.96 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,937 - INFO - Progress: 94% | Speed: 105.79 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,940 - INFO - Progress: 100% | Speed: 103.36 MB/s | ETA: 0m 0s
+2025-05-03 20:35:14,941 - INFO - Removing duplicate files...
+2025-05-03 20:41:47,933 - INFO - Selected source: D:/bluetooth
+2025-05-03 20:41:54,136 - INFO - Selected destination: D:/apps
+2025-05-03 20:41:57,225 - INFO - Progress: 5% | Speed: 422.75 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,230 - INFO - Progress: 11% | Speed: 116.98 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,234 - INFO - Progress: 16% | Speed: 92.19 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,237 - INFO - Progress: 22% | Speed: 73.44 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,241 - INFO - Progress: 27% | Speed: 80.85 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,243 - INFO - Progress: 33% | Speed: 65.74 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,246 - INFO - Progress: 38% | Speed: 63.90 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,249 - INFO - Progress: 44% | Speed: 63.30 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,250 - INFO - Progress: 50% | Speed: 60.93 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,253 - INFO - Progress: 55% | Speed: 56.58 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,255 - INFO - Progress: 61% | Speed: 54.53 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,258 - INFO - Progress: 66% | Speed: 53.59 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,260 - INFO - Progress: 72% | Speed: 77.64 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,264 - INFO - Progress: 77% | Speed: 110.38 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,267 - INFO - Progress: 83% | Speed: 153.78 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,270 - INFO - Progress: 88% | Speed: 169.38 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,272 - INFO - Progress: 94% | Speed: 162.67 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,274 - INFO - Progress: 100% | Speed: 158.46 MB/s | ETA: 0m 0s
+2025-05-03 20:41:57,274 - INFO - Removing duplicate files...
+2025-05-03 20:41:57,293 - INFO - Compressing backup...
+2025-05-03 20:41:57,596 - INFO - Encrypting backup (placeholder)...
+2025-05-03 20:41:57,597 - INFO - Backup complete. Saved to: D:/apps\backup.tar.gz
+2025-05-03 20:55:56,824 - INFO - Selected source: D:/bluetooth
+2025-05-03 20:56:11,293 - INFO - Selected destination: D:/de and t
+2025-05-03 20:56:15,000 - INFO - Progress: 5% | Speed: 208.60 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,005 - INFO - Progress: 11% | Speed: 116.42 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,008 - INFO - Progress: 16% | Speed: 91.97 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,012 - INFO - Progress: 22% | Speed: 73.29 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,018 - INFO - Progress: 27% | Speed: 64.70 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,022 - INFO - Progress: 33% | Speed: 57.26 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,026 - INFO - Progress: 38% | Speed: 53.34 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,029 - INFO - Progress: 44% | Speed: 48.46 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,031 - INFO - Progress: 50% | Speed: 49.32 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,033 - INFO - Progress: 55% | Speed: 47.44 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,035 - INFO - Progress: 61% | Speed: 47.47 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,036 - INFO - Progress: 66% | Speed: 47.02 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,039 - INFO - Progress: 72% | Speed: 68.81 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,042 - INFO - Progress: 77% | Speed: 98.82 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,046 - INFO - Progress: 83% | Speed: 141.92 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,049 - INFO - Progress: 88% | Speed: 153.63 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,051 - INFO - Progress: 94% | Speed: 148.24 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,053 - INFO - Progress: 100% | Speed: 142.24 MB/s | ETA: 0m 0s
+2025-05-03 20:56:15,054 - INFO - Removing duplicate files...
+2025-05-03 20:56:15,073 - INFO - Compressing backup...
+2025-05-03 20:56:15,359 - INFO - Encrypting backup...
+2025-05-03 20:56:15,413 - INFO - Backup complete. Saved to: D:/de and t\backup.tar.gz.enc
+2025-05-03 21:00:16,245 - INFO - Selected source: D:/bluetooth
+2025-05-03 21:00:24,402 - INFO - Selected destination: D:/de and t
+2025-05-03 21:00:26,416 - INFO - Progress: 5% | Speed: 210.84 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,422 - INFO - Progress: 11% | Speed: 97.53 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,425 - INFO - Progress: 16% | Speed: 73.70 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,428 - INFO - Progress: 22% | Speed: 62.61 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,431 - INFO - Progress: 27% | Speed: 70.11 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,434 - INFO - Progress: 33% | Speed: 64.36 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,438 - INFO - Progress: 38% | Speed: 60.64 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,440 - INFO - Progress: 44% | Speed: 55.44 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,442 - INFO - Progress: 50% | Speed: 55.94 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,444 - INFO - Progress: 55% | Speed: 55.16 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,445 - INFO - Progress: 61% | Speed: 53.25 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,447 - INFO - Progress: 66% | Speed: 52.42 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,450 - INFO - Progress: 72% | Speed: 78.15 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,453 - INFO - Progress: 77% | Speed: 111.09 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,456 - INFO - Progress: 83% | Speed: 158.28 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,458 - INFO - Progress: 88% | Speed: 170.74 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,460 - INFO - Progress: 94% | Speed: 163.37 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,463 - INFO - Progress: 100% | Speed: 157.42 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:26,464 - INFO - Removing duplicate files...
+2025-05-03 21:00:26,483 - INFO - Compressing backup...
+2025-05-03 21:00:26,769 - INFO - Encrypting backup...
+2025-05-03 21:00:26,803 - INFO - Backup complete. Saved to: D:/de and t\backup.tar.gz.enc
+2025-05-03 21:00:39,476 - INFO - Progress: 5% | Speed: 426.57 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,480 - INFO - Progress: 11% | Speed: 117.05 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,485 - INFO - Progress: 16% | Speed: 80.14 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,488 - INFO - Progress: 22% | Speed: 68.16 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,491 - INFO - Progress: 27% | Speed: 71.62 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,495 - INFO - Progress: 33% | Speed: 65.62 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,499 - INFO - Progress: 38% | Speed: 61.67 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,502 - INFO - Progress: 44% | Speed: 56.72 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,505 - INFO - Progress: 50% | Speed: 55.24 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,508 - INFO - Progress: 55% | Speed: 51.16 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,510 - INFO - Progress: 61% | Speed: 48.01 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,512 - INFO - Progress: 66% | Speed: 47.52 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,514 - INFO - Progress: 72% | Speed: 69.46 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,518 - INFO - Progress: 77% | Speed: 99.59 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,521 - INFO - Progress: 83% | Speed: 139.33 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,524 - INFO - Progress: 88% | Speed: 151.03 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,526 - INFO - Progress: 94% | Speed: 148.54 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,529 - INFO - Progress: 100% | Speed: 140.06 MB/s | ETA: 0m 0s | File: N/A
+2025-05-03 21:00:39,530 - INFO - Removing duplicate files...
+2025-05-03 21:00:39,548 - INFO - Compressing backup...
+2025-05-03 21:00:39,838 - INFO - Encrypting backup...
+2025-05-03 21:00:39,859 - INFO - Backup complete. Saved to: D:/de and t\backup.tar.gz.enc
+2025-05-03 21:16:33,949 - INFO - Selected encrypted file: D:/de and t/backup.tar.gz.enc
+2025-05-03 21:16:41,074 - INFO - Selected destination: D:/de and t
+2025-05-03 21:16:46,902 - INFO - Selected destination: D:/de and t
+2025-05-03 21:16:49,808 - INFO - Selected encrypted file: D:/de and t/backup.tar.gz.enc
+2025-05-03 21:16:49,809 - INFO - Decrypting D:/de and t/backup.tar.gz.enc...
+2025-05-03 21:16:49,838 - INFO - Error during decryption and extraction: [WinError 2] The system cannot find the file specified
+2025-05-03 21:18:39,480 - INFO - Selected destination: D:/de and t
+2025-05-03 21:18:45,980 - INFO - Selected encrypted file: D:/de and t/backup.tar.gz.enc
+2025-05-03 21:18:45,991 - INFO - Decryption error: GPG not found. Please install GPG and add it to your system PATH.
+2025-05-03 15:52:01,304 - INFO - Selected destination: /mnt/d/de and t
+2025-05-03 15:52:14,261 - INFO - Selected encrypted file: /mnt/d/de and t/backup.tar.gz.enc
+2025-05-03 15:52:33,851 - INFO - Selected encrypted file: /mnt/d/de and t/backup.tar.gz.enc
+2025-05-03 15:52:42,536 - INFO - Selected encrypted file: /mnt/d/de and t/backup.tar.gz.enc
+2025-05-03 21:27:27,075 - INFO - Selected encrypted file: D:/de and t/backup.tar.gz.enc
+2025-05-03 21:27:33,014 - INFO - Selected destination: D:/de and t
+2025-05-03 21:27:35,608 - INFO - Selected encrypted file: D:/de and t/backup.tar.gz.enc
+2025-05-03 21:34:45,404 - INFO - Selected encrypted file: D:/de and t/backup.tar.gz.enc
+2025-05-03 21:34:49,608 - INFO - Selected destination: D:/de and t
+2025-05-03 21:34:52,311 - INFO - Selected encrypted file: D:/de and t/backup.tar.gz.enc
+2025-05-03 21:34:52,320 - INFO - Decrypting D:/de and t/backup.tar.gz.enc...
+2025-05-03 21:34:52,738 - INFO - Decryption failed: Command '['gpg', '--decrypt', '--output', 'D:/de and t\\decrypted_backup.tar.gz', 'D:/de and t/backup.tar.gz.enc']' returned non-zero exit status 2.
+2025-05-03 21:36:26,358 - INFO - Selected destination: D:/de and t
+2025-05-03 21:36:29,030 - INFO - Selected encrypted file: D:/de and t/backup.tar.gz.enc
+2025-05-03 21:36:29,031 - INFO - Starting decryption...
+2025-05-03 21:36:29,066 - INFO - Error during decryption: Command '['gpg', '--output', 'D:/de and t/backup.tar.gz', '--decrypt', 'D:/de and t/backup.tar.gz.enc']' returned non-zero exit status 2.
+2025-05-03 21:38:32,779 - INFO - Selected destination: D:/de and t
+2025-05-03 21:38:34,763 - INFO - Selected encrypted file: D:/de and t/backup.tar.gz.enc
+2025-05-03 21:38:34,771 - INFO - Decrypting D:/de and t/backup.tar.gz.enc...
+2025-05-03 21:38:34,804 - INFO - Decryption failed: Command '['gpg', '--decrypt', '--output', 'D:/de and t\\decrypted_backup.tar.gz', 'D:/de and t/backup.tar.gz.enc']' returned non-zero exit status 2.
+2025-05-03 21:39:10,263 - INFO - Selected destination: D:/bluetooth
+2025-05-03 21:39:15,983 - INFO - Selected encrypted file: D:/de and t/backup.tar.gz.enc
+2025-05-03 21:39:15,992 - INFO - Decrypting D:/de and t/backup.tar.gz.enc...
+2025-05-03 21:39:16,026 - INFO - Decryption failed: Command '['gpg', '--decrypt', '--output', 'D:/bluetooth\\decrypted_backup.tar.gz', 'D:/de and t/backup.tar.gz.enc']' returned non-zero exit status 2.
+2025-05-03 21:40:31,857 - INFO - Selected destination: D:/de and t
+2025-05-03 21:40:33,795 - INFO - Selected encrypted file: D:/de and t/backup.tar.gz.enc
+2025-05-03 21:40:33,803 - INFO - Decrypting D:/de and t/backup.tar.gz.enc...
+2025-05-03 21:40:33,836 - INFO - Decryption failed: Command '['gpg', '--decrypt', '--output', 'D:/de and t\\decrypted_backup.tar.gz', 'D:/de and t/backup.tar.gz.enc']' returned non-zero exit status 2.
+2025-05-03 21:43:21,670 - INFO - Selected destination: D:/de and t
+2025-05-03 21:43:23,733 - INFO - Selected encrypted file: D:/de and t/backup.tar.gz.enc
+2025-05-03 21:43:23,742 - INFO - Decrypting D:/de and t/backup.tar.gz.enc...
+2025-05-03 21:43:23,776 - INFO - Decryption failed: Command '['gpg', '--decrypt', '--output', 'D:/de and t\\decrypted_backup.tar.gz', 'D:/de and t/backup.tar.gz.enc']' returned non-zero exit status 2.
+2025-05-04 00:48:45,092 - INFO - Selected source: D:/bluetooth
+2025-05-04 00:48:50,795 - INFO - Selected destination: D:/bluetooth/New folder
+2025-05-04 00:49:20,498 - INFO - Selected source: D:/bluetooth
+2025-05-04 00:49:24,233 - INFO - Selected destination: D:/bluetooth/New folder
+2025-05-04 00:49:31,831 - INFO - Progress: 5% | Speed: 208.50 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,833 - INFO - Progress: 11% | Speed: 145.58 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,840 - INFO - Progress: 16% | Speed: 81.80 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,934 - INFO - Progress: 22% | Speed: 9.11 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,939 - INFO - Progress: 27% | Speed: 11.77 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,943 - INFO - Progress: 33% | Speed: 11.54 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,946 - INFO - Progress: 38% | Speed: 12.09 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,949 - INFO - Progress: 44% | Speed: 12.63 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,951 - INFO - Progress: 50% | Speed: 13.45 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,953 - INFO - Progress: 55% | Speed: 13.49 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,955 - INFO - Progress: 61% | Speed: 13.77 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,957 - INFO - Progress: 66% | Speed: 14.16 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,962 - INFO - Progress: 72% | Speed: 21.83 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,966 - INFO - Progress: 77% | Speed: 32.22 MB/s | ETA: 0m 0s
+2025-05-04 00:49:31,969 - INFO - Progress: 83% | Speed: 48.33 MB/s | ETA: 0m 0s
+2025-05-04 00:49:32,005 - INFO - Progress: 88% | Speed: 44.36 MB/s | ETA: 0m 0s
+2025-05-04 00:49:32,007 - INFO - Progress: 94% | Speed: 43.48 MB/s | ETA: 0m 0s
+2025-05-04 00:49:32,010 - INFO - Progress: 100% | Speed: 43.64 MB/s | ETA: 0m 0s
+2025-05-04 00:49:32,010 - INFO - Removing duplicate files...
+2025-05-04 00:49:32,033 - INFO - Compressing backup...
+2025-05-04 00:49:32,322 - INFO - Encrypting backup using GPG...
+2025-05-04 00:49:45,507 - INFO - Encryption complete: D:/bluetooth/New folder\backup.tar.gz.gpg
+2025-05-04 00:49:45,508 - INFO - Backup complete. Saved to: D:/bluetooth/New folder\backup.tar.gz.gpg
+2025-05-04 00:49:50,216 - INFO - Selected encrypted file: D:/bluetooth/New folder/backup.tar.gz.gpg
+2025-05-04 00:49:50,218 - INFO - Decryption error: decrypt_and_extract() takes 4 positional arguments but 5 were given
+2025-05-04 00:50:17,967 - INFO - Selected destination: D:/bluetooth/New folder
+2025-05-04 00:50:20,670 - INFO - Selected encrypted file: D:/bluetooth/New folder/backup.tar.gz.gpg
+2025-05-04 00:50:20,672 - INFO - Decryption error: decrypt_and_extract() takes 4 positional arguments but 5 were given
+2025-05-04 00:51:42,185 - INFO - Selected destination: D:/bluetooth/New folder
+2025-05-04 00:51:49,561 - INFO - Selected encrypted file: D:/bluetooth/New folder/backup.tar.gz.gpg
+2025-05-04 00:51:49,570 - INFO - Decrypting D:/bluetooth/New folder/backup.tar.gz.gpg...
+2025-05-04 00:51:49,748 - INFO - Decryption successful.
+2025-05-04 00:51:49,748 - INFO - Extracting D:/bluetooth/New folder\decrypted_backup.tar.gz...
+2025-05-04 00:51:49,804 - INFO - Backup extracted to: D:/bluetooth/New folder
+2025-05-04 00:51:49,805 - INFO - Decrypted file removed.
+2025-05-04 00:51:49,819 - INFO - Progress: 100% | Speed: 0.00 MB/s | ETA: 0m 0s
+2025-05-04 00:52:52,887 - INFO - Decrypting D:/bluetooth/New folder/backup.tar.gz.gpg...
+2025-05-04 00:52:53,061 - INFO - Decryption successful.
+2025-05-04 00:52:53,061 - INFO - Extracting D:/bluetooth/New folder\decrypted_backup.tar.gz...
+2025-05-04 00:52:53,208 - INFO - Backup extracted to: D:/bluetooth/New folder
+2025-05-04 00:52:53,211 - INFO - Decrypted file removed.
+2025-05-04 00:53:22,996 - INFO - Decrypting D:/bluetooth/New folder/backup.tar.gz.gpg...
+2025-05-04 00:53:23,171 - INFO - Decryption successful.
+2025-05-04 00:53:23,171 - INFO - Extracting D:/bluetooth/New folder\decrypted_backup.tar.gz...
+2025-05-04 00:53:23,319 - INFO - Backup extracted to: D:/bluetooth/New folder
+2025-05-04 00:53:23,320 - INFO - Decrypted file removed.
+2025-05-04 00:53:52,451 - INFO - Selected source: D:/bluetooth/New folder
+2025-05-04 00:54:01,545 - INFO - Selected destination: D:/bluetooth/New folder
+2025-05-04 00:56:57,671 - INFO - Selected source: D:/bluetooth
+2025-05-04 00:57:03,467 - INFO - Selected destination: D:/bluetooth/New folder
+2025-05-04 00:57:14,003 - INFO - Progress: 2% | Speed: 427.40 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,007 - INFO - Progress: 5% | Speed: 97.22 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,011 - INFO - Progress: 8% | Speed: 90.41 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,035 - INFO - Progress: 10% | Speed: 28.16 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,040 - INFO - Progress: 13% | Speed: 33.77 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,043 - INFO - Progress: 16% | Speed: 31.13 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,046 - INFO - Progress: 18% | Speed: 31.42 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,049 - INFO - Progress: 21% | Speed: 31.82 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,051 - INFO - Progress: 24% | Speed: 33.07 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,052 - INFO - Progress: 27% | Speed: 32.41 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,054 - INFO - Progress: 29% | Speed: 32.10 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,057 - INFO - Progress: 32% | Speed: 32.59 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,060 - INFO - Progress: 35% | Speed: 48.77 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,062 - INFO - Progress: 37% | Speed: 71.33 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,066 - INFO - Progress: 40% | Speed: 104.26 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,070 - INFO - Progress: 43% | Speed: 112.62 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,071 - INFO - Progress: 45% | Speed: 109.78 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,074 - INFO - Progress: 48% | Speed: 106.98 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,077 - INFO - Progress: 51% | Speed: 109.61 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,079 - INFO - Progress: 54% | Speed: 107.58 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,081 - INFO - Progress: 56% | Speed: 107.93 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,083 - INFO - Progress: 59% | Speed: 106.84 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,090 - INFO - Progress: 62% | Speed: 184.05 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,094 - INFO - Progress: 64% | Speed: 177.49 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,096 - INFO - Progress: 67% | Speed: 174.05 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,098 - INFO - Progress: 70% | Speed: 171.78 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,116 - INFO - Progress: 72% | Speed: 147.62 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,119 - INFO - Progress: 75% | Speed: 144.95 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,121 - INFO - Progress: 78% | Speed: 141.60 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,124 - INFO - Progress: 81% | Speed: 139.68 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,128 - INFO - Progress: 83% | Speed: 135.88 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,131 - INFO - Progress: 86% | Speed: 139.71 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,135 - INFO - Progress: 89% | Speed: 148.07 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,138 - INFO - Progress: 91% | Speed: 160.77 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,167 - INFO - Progress: 94% | Speed: 138.64 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,169 - INFO - Progress: 97% | Speed: 136.70 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,172 - INFO - Progress: 100% | Speed: 135.78 MB/s | ETA: 0m 0s
+2025-05-04 00:57:14,172 - INFO - Removing duplicate files...
+2025-05-04 00:57:14,229 - INFO - Compressing backup...
+2025-05-04 00:57:14,722 - INFO - Encrypting backup using GPG...
+2025-05-04 00:57:23,808 - INFO - Encryption complete: D:/bluetooth/New folder\backup.tar.gz.gpg
+2025-05-04 00:57:23,809 - INFO - Backup complete. Saved to: D:/bluetooth/New folder\backup.tar.gz.gpg
+2025-05-04 00:58:27,396 - INFO - Decrypting D:/bluetooth/New folder/backup.tar.gz.gpg...
+2025-05-04 00:58:27,585 - INFO - Decryption failed: Command '['gpg', '--batch', '--yes', '--passphrase', '123456', '--output', 'D:/bluetooth/New folder\\decrypted_backup.tar.gz', '--decrypt', 'D:/bluetooth/New folder/backup.tar.gz.gpg']' returned non-zero exit status 2.
+2025-05-04 00:58:31,967 - INFO - Decrypting D:/bluetooth/New folder/backup.tar.gz.gpg...
+2025-05-04 00:58:32,150 - INFO - Decryption successful.
+2025-05-04 00:58:32,151 - INFO - Extracting D:/bluetooth/New folder\decrypted_backup.tar.gz...
+2025-05-04 00:58:32,225 - INFO - Backup extracted to: D:/bluetooth/New folder
+2025-05-04 00:58:32,227 - INFO - Decrypted file removed.
+2025-05-04 12:37:14,228 - INFO - Removing duplicate files...
+2025-05-04 12:37:14,249 - INFO - Compressing backup...
+2025-05-04 12:37:14,542 - INFO - Performing integrity check (SHA-256)...
+2025-05-04 12:37:14,552 - INFO - Checksum saved to: D:/bluetooth/New folder\backup.tar.gz.sha256
+2025-05-04 12:37:14,552 - INFO - Encrypting backup using GPG...
+2025-05-04 12:37:24,718 - INFO - Encryption complete: D:/bluetooth/New folder\backup.tar.gz.gpg
+2025-05-04 12:37:24,720 - INFO - Backup summary saved to: D:/bluetooth/New folder\backup_report.txt
+2025-05-04 12:37:24,722 - INFO - Backup complete. Saved to: D:/bluetooth/New folder\backup.tar.gz.gpg
+2025-05-04 12:38:34,352 - INFO - Removing duplicate files...
+2025-05-04 12:38:34,386 - INFO - Compressing backup...
+2025-05-04 12:38:34,675 - INFO - Performing integrity check (SHA-256)...
+2025-05-04 12:38:34,685 - INFO - Checksum saved to: D:/bluetooth/New folder\backup.tar.gz.sha256
+2025-05-04 12:38:34,687 - INFO - Encrypting backup using GPG...
+2025-05-04 12:38:45,301 - INFO - Encryption complete: D:/bluetooth/New folder\backup.tar.gz.gpg
+2025-05-04 12:38:45,302 - INFO - Backup summary saved to: D:/bluetooth/New folder\backup_report.txt
+2025-05-04 12:38:45,304 - INFO - Backup complete. Saved to: D:/bluetooth/New folder\backup.tar.gz.gpg
+2025-05-04 12:39:23,130 - INFO - Decrypting D:/bluetooth/New folder/backup.tar.gz.gpg...
+2025-05-04 12:39:23,164 - INFO - Decryption failed: Command '['gpg', '--batch', '--yes', '--passphrase', '', '--output', 'D:/apps\\decrypted_backup.tar.gz', '--decrypt', 'D:/bluetooth/New folder/backup.tar.gz.gpg']' returned non-zero exit status 2.
+2025-05-04 12:39:29,208 - INFO - Decrypting D:/bluetooth/New folder/backup.tar.gz.gpg...
+2025-05-04 12:39:29,385 - INFO - Decryption successful.
+2025-05-04 12:39:29,386 - INFO - Extracting D:/apps\decrypted_backup.tar.gz...
+2025-05-04 12:39:29,468 - INFO - Backup extracted to: D:/apps
+2025-05-04 12:39:29,470 - INFO - Decrypted file removed.
+2025-05-04 12:54:16,236 - INFO - Backup complete. Saved to: D:/projects\backup
+2025-05-05 09:53:11,072 - INFO - Removing duplicate files...
+2025-05-05 09:53:11,187 - INFO - Compressing backup...
+2025-05-05 09:53:12,102 - INFO - Performing integrity check (SHA-256)...
+2025-05-05 09:53:12,128 - INFO - Checksum saved to: D:/bluetooth/backup\backup.tar.gz.sha256
+2025-05-05 09:53:12,130 - INFO - Encrypting backup using GPG...
+2025-05-05 09:53:36,952 - INFO - Encryption complete: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-05 09:53:36,955 - INFO - Backup summary saved to: D:/bluetooth/backup\backup_report.txt
+2025-05-05 09:53:36,963 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-05 09:54:16,785 - INFO - Decrypting D:/bluetooth/backup/backup.tar.gz.gpg...
+2025-05-05 09:54:16,887 - INFO - Decryption failed: Command '['gpg', '--batch', '--yes', '--passphrase', '', '--output', 'D:/bluetooth/backup\\decrypted_backup.tar.gz', '--decrypt', 'D:/bluetooth/backup/backup.tar.gz.gpg']' returned non-zero exit status 2.
+2025-05-05 09:54:22,433 - INFO - Decrypting D:/bluetooth/backup/backup.tar.gz.gpg...
+2025-05-05 09:54:22,709 - INFO - Decryption successful.
+2025-05-05 09:54:22,710 - INFO - Extracting D:/bluetooth/backup\decrypted_backup.tar.gz...
+2025-05-05 09:54:22,956 - INFO - Backup extracted to: D:/bluetooth/backup
+2025-05-05 09:54:22,959 - INFO - Decrypted file removed.
+2025-05-05 11:21:50,164 - INFO - Removing duplicate files...
+2025-05-05 11:21:50,234 - INFO - Compressing backup...
+2025-05-05 11:21:51,884 - INFO - Performing integrity check (SHA-256)...
+2025-05-05 11:21:51,951 - INFO - Checksum saved to: D:/apps\backup.tar.gz.sha256
+2025-05-05 11:21:51,951 - INFO - Encrypting backup using GPG...
+2025-05-05 11:22:09,423 - INFO - Encryption complete: D:/apps\backup.tar.gz.gpg
+2025-05-05 11:22:09,426 - INFO - Backup summary saved to: D:/apps\backup_report.txt
+2025-05-05 11:22:09,429 - INFO - Backup complete. Saved to: D:/apps\backup.tar.gz.gpg
+2025-05-05 11:22:59,760 - INFO - Decrypting D:/apps/backup.tar.gz.gpg...
+2025-05-05 11:22:59,833 - INFO - Decryption failed: Command '['gpg', '--batch', '--yes', '--passphrase', '', '--output', 'D:/apps\\decrypted_backup.tar.gz', '--decrypt', 'D:/apps/backup.tar.gz.gpg']' returned non-zero exit status 2.
+2025-05-05 11:23:05,603 - INFO - Decrypting D:/apps/backup.tar.gz.gpg...
+2025-05-05 11:23:05,826 - INFO - Decryption successful.
+2025-05-05 11:23:05,827 - INFO - Extracting D:/apps\decrypted_backup.tar.gz...
+2025-05-05 11:23:06,088 - INFO - Backup extracted to: D:/apps
+2025-05-05 11:23:06,094 - INFO - Decrypted file removed.
+2025-05-08 10:36:44,975 - INFO - Backup complete. Saved to: D:/apps\backup
+2025-05-08 10:37:54,553 - INFO - Compressing backup...
+2025-05-08 10:37:55,379 - INFO - Performing integrity check (SHA-256)...
+2025-05-08 10:37:55,430 - INFO - Checksum saved to: D:/apps\backup.tar.gz.sha256
+2025-05-08 10:37:55,433 - INFO - Encrypting backup using GPG...
+2025-05-08 10:38:13,415 - INFO - Encryption complete: D:/apps\backup.tar.gz.gpg
+2025-05-08 10:38:13,418 - INFO - Backup summary saved to: D:/apps\backup_report.txt
+2025-05-08 10:38:13,422 - INFO - Backup complete. Saved to: D:/apps\backup.tar.gz.gpg
+2025-05-08 10:39:08,220 - INFO - Compressing backup...
+2025-05-08 10:39:09,011 - INFO - Backup complete. Saved to: D:/apps\backup.tar.gz
+2025-05-14 15:45:06,093 - INFO - Removing duplicate files...
+2025-05-14 15:45:06,309 - INFO - Compressing backup...
+2025-05-14 15:45:06,854 - INFO - Performing integrity check (SHA-256)...
+2025-05-14 15:45:07,214 - INFO - Checksum saved to: /mnt/d/bluetooth/backup/backup.tar.gz.sha256
+2025-05-14 15:45:07,214 - INFO - Encrypting backup using GPG...
+2025-05-14 15:45:42,157 - INFO - Encryption complete: /mnt/d/bluetooth/backup/backup.tar.gz.gpg
+2025-05-14 15:45:42,161 - INFO - Backup summary saved to: /mnt/d/bluetooth/backup/backup_report.txt
+2025-05-14 15:45:42,161 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz.gpg
+2025-05-14 21:30:01,241 - INFO - Removing duplicate files...
+2025-05-14 21:30:01,300 - INFO - Compressing backup...
+2025-05-14 21:30:01,716 - INFO - Performing integrity check (SHA-256)...
+2025-05-14 21:30:01,727 - INFO - Checksum saved to: D:/bluetooth/backup\backup.tar.gz.sha256
+2025-05-14 21:30:01,729 - INFO - Encrypting backup using GPG...
+2025-05-14 21:30:09,759 - INFO - Encryption complete: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-14 21:30:09,762 - INFO - Backup summary saved to: D:/bluetooth/backup\backup_report.txt
+2025-05-14 21:30:09,763 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-15 02:26:02,550 - INFO - Compressing backup...
+2025-05-15 02:26:03,130 - INFO - Encrypting backup using GPG...
+2025-05-15 02:26:37,172 - INFO - Encryption complete: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-15 02:26:37,173 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-15 02:28:20,404 - INFO - Compressing backup...
+2025-05-15 02:28:21,224 - INFO - Encrypting backup using GPG...
+2025-05-15 02:28:29,855 - INFO - Encryption complete: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-15 02:28:29,856 - INFO - Backup summary saved to: D:/bluetooth/backup\backup_report.txt
+2025-05-15 02:28:29,857 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-15 02:35:31,032 - INFO - Compressing backup...
+2025-05-15 02:35:31,872 - INFO - Backup summary saved to: D:/bluetooth/backup\backup_report.txt
+2025-05-15 02:35:31,873 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:36:06,305 - INFO - Compressing backup...
+2025-05-15 02:36:07,921 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:36:07,922 - INFO - Total Size: 60.30 MB
+2025-05-15 02:37:16,007 - INFO - Removing duplicate files...
+2025-05-15 02:37:16,174 - INFO - Compressing backup...
+2025-05-15 02:37:18,516 - INFO - Performing integrity check (SHA-256)...
+2025-05-15 02:37:18,618 - INFO - Checksum saved to: D:/bluetooth/backup\backup.tar.gz.sha256
+2025-05-15 02:37:18,619 - INFO - Backup summary saved to: D:/bluetooth/backup\backup_report.txt
+2025-05-15 02:37:18,621 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:37:18,624 - INFO - Compressed Size: 89.90 MB
+
+2025-05-15 02:41:12,189 - INFO - Compressing backup...
+2025-05-15 02:41:12,475 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:41:12,476 - INFO - Original Size: 7.88 MB
+2025-05-15 02:41:12,476 - INFO - Compressed Backup Size: 7.49 MB
+2025-05-15 02:41:24,347 - INFO - Compressing backup...
+2025-05-15 02:41:24,819 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:41:24,819 - INFO - Original Size: 15.36 MB
+2025-05-15 02:41:24,821 - INFO - Compressed Backup Size: 14.97 MB
+2025-05-15 02:41:31,498 - INFO - Compressing backup...
+2025-05-15 02:41:32,155 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:41:32,156 - INFO - Original Size: 22.85 MB
+2025-05-15 02:41:32,157 - INFO - Compressed Backup Size: 22.46 MB
+2025-05-15 02:41:32,929 - INFO - Compressing backup...
+2025-05-15 02:41:33,318 - INFO - Compressing backup...
+2025-05-15 02:41:36,367 - INFO - Compressing backup...
+2025-05-15 02:41:37,025 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:41:37,025 - INFO - Original Size: 20.26 MB
+2025-05-15 02:41:37,027 - INFO - Compressed Backup Size: 19.57 MB
+2025-05-15 02:41:39,641 - INFO - Compressing backup...
+2025-05-15 02:41:40,406 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:41:40,408 - INFO - Original Size: 27.45 MB
+2025-05-15 02:41:40,409 - INFO - Compressed Backup Size: 27.06 MB
+2025-05-15 02:41:41,378 - INFO - Compressing backup...
+2025-05-15 02:41:42,332 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:41:42,333 - INFO - Original Size: 34.94 MB
+2025-05-15 02:41:42,334 - INFO - Compressed Backup Size: 34.55 MB
+2025-05-15 02:41:43,282 - INFO - Compressing backup...
+2025-05-15 02:41:44,445 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:41:44,446 - INFO - Original Size: 42.43 MB
+2025-05-15 02:41:44,446 - INFO - Compressed Backup Size: 42.05 MB
+2025-05-15 02:41:45,380 - INFO - Compressing backup...
+2025-05-15 02:41:45,989 - INFO - Compressing backup...
+2025-05-15 02:41:46,667 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:41:46,667 - INFO - Original Size: 21.31 MB
+2025-05-15 02:41:46,668 - INFO - Compressed Backup Size: 20.61 MB
+2025-05-15 02:52:33,568 - INFO - Encrypting backup using GPG...
+2025-05-15 02:52:33,598 - INFO - Encryption failed: Command '['gpg', '--batch', '--yes', '--symmetric', '--cipher-algo', 'AES256', 'D:/bluetooth/backup\\backup']' returned non-zero exit status 2.
+2025-05-15 02:52:50,518 - INFO - Compressing backup...
+2025-05-15 02:52:51,092 - INFO - Encrypting backup using GPG...
+2025-05-15 02:52:53,388 - INFO - Encryption failed: Command '['gpg', '--batch', '--yes', '--symmetric', '--cipher-algo', 'AES256', 'D:/bluetooth/backup\\backup.tar.gz']' returned non-zero exit status 2.
+2025-05-15 02:54:54,758 - INFO - Compressing backup...
+2025-05-15 02:54:55,041 - INFO - Encrypting backup using GPG...
+2025-05-15 02:55:10,658 - INFO - Encryption complete: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-15 02:55:10,661 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-15 02:55:10,661 - INFO - Original Size: 7.88 MB
+2025-05-15 02:55:10,663 - INFO - Compressed Backup Size: 7.49 MB
+2025-05-15 02:56:27,088 - INFO - Compressing backup...
+2025-05-15 02:56:27,700 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:56:27,700 - INFO - Original Size: 15.36 MB
+2025-05-15 02:56:27,701 - INFO - Compressed Backup Size: 14.97 MB
+2025-05-15 02:56:51,125 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup
+2025-05-15 02:56:51,126 - INFO - Original Size: 30.34 MB
+2025-05-15 02:56:51,127 - INFO - Backup Size: 30.34 MB
+2025-05-15 02:59:22,245 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup
+2025-05-15 02:59:22,246 - INFO - Original Size: 60.67 MB
+2025-05-15 02:59:22,247 - INFO - Backup Size: 60.67 MB
+2025-05-15 02:59:34,729 - INFO - Compressing backup...
+2025-05-15 02:59:37,597 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 02:59:37,598 - INFO - Original Size: 91.01 MB
+2025-05-15 02:59:37,599 - INFO - Compressed Backup Size: 89.85 MB
+2025-05-15 02:59:54,739 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup
+2025-05-15 02:59:54,741 - INFO - Original Size: 7.88 MB
+2025-05-15 02:59:54,741 - INFO - Backup Size: 7.88 MB
+2025-05-15 03:00:00,178 - INFO - Compressing backup...
+2025-05-15 03:00:00,749 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 03:00:00,750 - INFO - Original Size: 15.75 MB
+2025-05-15 03:00:00,751 - INFO - Compressed Backup Size: 14.97 MB
+2025-05-15 03:00:12,821 - INFO - Compressing backup...
+2025-05-15 03:00:13,481 - INFO - Encrypting backup using GPG...
+2025-05-15 03:00:23,623 - INFO - Encryption complete: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-15 03:00:23,625 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-15 03:00:23,626 - INFO - Original Size: 22.85 MB
+2025-05-15 03:00:23,627 - INFO - Compressed Backup Size: 22.46 MB
+2025-05-15 03:08:35,062 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 03:08:35,081 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar
+2025-05-15 03:08:35,082 - INFO - Original Size: 7.88 MB
+2025-05-15 03:08:35,085 - INFO - Backup Size: 7.88 MB
+2025-05-15 03:08:40,887 - INFO - Compressing backup...
+2025-05-15 03:08:41,447 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 03:08:41,449 - INFO - Original Size: 15.79 MB
+2025-05-15 03:08:41,449 - INFO - Compressed Backup Size: 14.97 MB
+2025-05-15 03:08:49,156 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 03:08:49,201 - INFO - Encrypting backup using GPG...
+2025-05-15 03:08:59,233 - INFO - Encryption complete: D:/bluetooth/backup\backup.tar.gpg
+2025-05-15 03:08:59,234 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gpg
+2025-05-15 03:08:59,235 - INFO - Original Size: 30.76 MB
+2025-05-15 03:08:59,240 - INFO - Backup Size: 30.76 MB
+2025-05-15 03:09:52,055 - INFO - Compressing backup...
+2025-05-15 03:09:53,469 - INFO - Encrypting backup using GPG...
+2025-05-15 03:10:08,002 - INFO - Encryption complete: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-15 03:10:08,003 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz.gpg
+2025-05-15 03:10:08,006 - INFO - Original Size: 52.86 MB
+2025-05-15 03:10:08,009 - INFO - Compressed Backup Size: 52.49 MB
+2025-05-15 03:10:27,318 - INFO - Compressing backup...
+2025-05-15 03:10:29,679 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 03:10:29,680 - INFO - Original Size: 90.38 MB
+2025-05-15 03:10:29,681 - INFO - Compressed Backup Size: 90.01 MB
+2025-05-15 03:10:35,991 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 03:10:36,209 - INFO - Encrypting backup using GPG...
+2025-05-15 03:11:02,745 - INFO - Encryption complete: D:/bluetooth/backup\backup.tar.gpg
+2025-05-15 03:11:02,745 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gpg
+2025-05-15 03:11:02,747 - INFO - Original Size: 180.39 MB
+2025-05-15 03:11:02,748 - INFO - Backup Size: 180.39 MB
+2025-05-15 03:11:42,615 - INFO - Compressing backup...
+2025-05-15 03:11:51,262 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 03:11:51,263 - INFO - Original Size: 330.85 MB
+2025-05-15 03:11:51,264 - INFO - Compressed Backup Size: 330.55 MB
+2025-05-15 03:13:36,583 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 03:13:36,604 - INFO - Backup summary saved to: D:/bluetooth/backup\backup_report.txt
+2025-05-15 03:13:36,605 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar
+2025-05-15 03:13:36,608 - INFO - Original Size: 7.88 MB
+2025-05-15 03:13:36,608 - INFO - Backup Size: 7.88 MB
+2025-05-15 03:16:13,210 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 03:16:13,241 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar
+2025-05-15 03:16:13,241 - INFO - Original Size: 15.79 MB
+2025-05-15 03:16:13,243 - INFO - Backup Size: 15.79 MB
+2025-05-15 03:16:23,662 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 03:16:23,701 - INFO - Backup summary saved to: D:/bluetooth/backup\backup_report.txt
+2025-05-15 03:16:23,701 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar
+2025-05-15 03:16:23,702 - INFO - Original Size: 23.71 MB
+2025-05-15 03:16:23,702 - INFO - Backup Size: 23.71 MB
+2025-05-15 03:18:28,837 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 03:18:28,885 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar
+2025-05-15 03:18:28,886 - INFO - Original Size: 31.63 MB
+2025-05-15 03:18:28,887 - INFO - Backup Size: 31.63 MB
+2025-05-15 03:18:47,391 - INFO - Compressing backup...
+2025-05-15 03:18:48,770 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 03:18:48,771 - INFO - Original Size: 39.55 MB
+2025-05-15 03:18:48,772 - INFO - Compressed Backup Size: 37.43 MB
+2025-05-15 03:19:06,262 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 03:19:06,281 - INFO - Backup summary saved to: D:/bluetooth/backup\backup_report.txt
+2025-05-15 03:19:06,282 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar
+2025-05-15 03:19:06,283 - INFO - Original Size: 7.88 MB
+2025-05-15 03:19:06,284 - INFO - Backup Size: 7.88 MB
+2025-05-15 03:19:15,032 - INFO - Compressing backup...
+2025-05-15 03:19:15,607 - INFO - Backup summary saved to: D:/bluetooth/backup\backup_report.txt
+2025-05-15 03:19:15,607 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gz
+2025-05-15 03:19:15,608 - INFO - Original Size: 15.79 MB
+2025-05-15 03:19:15,609 - INFO - Compressed Backup Size: 14.97 MB
+2025-05-15 03:19:31,119 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 03:19:31,165 - INFO - Encrypting backup using GPG...
+2025-05-15 03:19:33,956 - INFO - Encryption failed: Command '['gpg', '--batch', '--yes', '--symmetric', '--cipher-algo', 'AES256', 'D:/bluetooth/backup\\backup.tar']' returned non-zero exit status 2.
+2025-05-15 05:09:57,290 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:09:57,306 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 05:09:58,295 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:09:58,297 - INFO - Original Size: 7.88 MB
+2025-05-15 05:09:58,299 - INFO - Backup Size: 7.88 MB
+2025-05-15 05:10:20,504 - INFO - Compressing backup via shell script...
+2025-05-15 05:10:23,238 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:10:23,239 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 05:10:26,356 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:10:26,358 - INFO - Original Size: 23.66 MB
+2025-05-15 05:10:26,368 - INFO - Compressed Backup Size: 23.73 MB
+2025-05-15 05:12:20,989 - INFO - Compressing backup via shell script...
+2025-05-15 05:12:21,878 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:12:21,879 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 05:12:22,647 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:12:22,648 - INFO - Original Size: 7.88 MB
+2025-05-15 05:12:22,656 - INFO - Compressed Backup Size: 7.91 MB
+2025-05-15 05:12:42,718 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:12:42,720 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 05:12:45,051 - INFO - Encrypting backup via shell script...
+2025-05-15 05:12:55,622 - INFO - Encryption complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg
+2025-05-15 05:13:49,918 - INFO - Compressing backup via shell script...
+2025-05-15 05:13:50,752 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:13:50,753 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 05:13:51,652 - INFO - Encrypting backup via shell script...
+2025-05-15 05:13:54,962 - INFO - Encryption complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg
+2025-05-15 05:17:46,897 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:17:47,674 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:17:47,676 - INFO - Original Size: 7.88 MB
+2025-05-15 05:17:47,677 - INFO - Backup Size: 7.88 MB
+2025-05-15 05:18:01,259 - INFO - Compressing backup via shell script...
+2025-05-15 05:18:02,486 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:18:03,335 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:18:03,337 - INFO - Original Size: 7.88 MB
+2025-05-15 05:18:03,345 - INFO - Compressed Backup Size: 7.91 MB
+2025-05-15 05:18:11,126 - INFO - Compressing backup via shell script...
+2025-05-15 05:18:13,127 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:18:13,832 - INFO - Encrypting backup via shell script...
+2025-05-15 05:18:17,218 - INFO - Encryption complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg
+2025-05-15 05:20:53,738 - INFO - [Error copying] /mnt/d/bluetooth/Adobe Scan Jan 07, 2023_1.jpg: [Errno 2] No such file or directory
+2025-05-15 05:20:56,278 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:20:56,931 - INFO - Encrypting backup via shell script...
+2025-05-15 05:21:00,992 - INFO - Encryption complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg
+2025-05-15 05:21:08,109 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:21:10,066 - INFO - Encrypting backup via shell script...
+2025-05-15 05:21:47,849 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:21:48,649 - INFO - Encrypting backup via shell script...
+2025-05-15 05:21:52,200 - INFO - Encryption complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg
+2025-05-15 05:29:04,528 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:29:04,530 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 05:29:05,161 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:29:05,162 - INFO - Original Size: 7.88 MB
+2025-05-15 05:29:05,164 - INFO - Backup Size: 7.88 MB
+2025-05-15 05:29:17,203 - INFO - Compressing backup via shell script...
+2025-05-15 05:29:19,876 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:29:19,877 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 05:29:23,993 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:29:23,995 - INFO - Original Size: 23.66 MB
+2025-05-15 05:29:24,004 - INFO - Compressed Backup Size: 23.73 MB
+2025-05-15 05:29:35,281 - INFO - Compressing backup via shell script...
+2025-05-15 05:29:36,286 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:29:36,287 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 05:29:36,976 - INFO - Encrypting backup using GPG...
+2025-05-15 05:29:58,016 - INFO - Encryption complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg
+2025-05-15 05:29:58,018 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg
+2025-05-15 05:29:58,020 - INFO - Original Size: 7.88 MB
+2025-05-15 05:29:58,027 - INFO - Compressed Backup Size: 7.51 MB
+2025-05-15 05:30:30,726 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg...
+2025-05-15 05:30:30,789 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg', '123456']' returned non-zero exit status 1.
+2025-05-15 05:30:35,635 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg...
+2025-05-15 05:30:35,680 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg', '12345678']' returned non-zero exit status 1.
+2025-05-15 05:30:36,955 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg...
+2025-05-15 05:30:36,996 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg', '12345678']' returned non-zero exit status 1.
+2025-05-15 05:30:50,819 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg...
+2025-05-15 05:30:50,858 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg', '12345678']' returned non-zero exit status 1.
+2025-05-15 05:30:51,788 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg...
+2025-05-15 05:30:51,837 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg', '12345678']' returned non-zero exit status 1.
+2025-05-15 05:30:52,496 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg...
+2025-05-15 05:30:52,539 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg', '12345678']' returned non-zero exit status 1.
+2025-05-15 05:30:52,683 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg...
+2025-05-15 05:30:52,725 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg', '12345678']' returned non-zero exit status 1.
+2025-05-15 05:30:52,844 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg...
+2025-05-15 05:30:52,882 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg', '12345678']' returned non-zero exit status 1.
+2025-05-15 05:30:53,032 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg...
+2025-05-15 05:30:53,075 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg', '12345678']' returned non-zero exit status 1.
+2025-05-15 05:35:53,091 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:35:53,093 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 05:35:53,842 - INFO - Encrypting backup using GPG...
+2025-05-15 05:36:09,602 - INFO - Encryption complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg
+2025-05-15 05:36:09,606 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg
+2025-05-15 05:36:09,610 - INFO - Original Size: 7.88 MB
+2025-05-15 05:36:09,612 - INFO - Backup Size: 7.88 MB
+2025-05-15 05:36:29,595 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:36:29,597 - INFO - Creating uncompressed archive for encryption...
+2025-05-15 05:36:30,476 - INFO - Encrypting backup using GPG...
+2025-05-15 05:36:44,953 - INFO - Encryption complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg
+2025-05-15 05:36:44,955 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg
+2025-05-15 05:36:44,956 - INFO - Original Size: 7.88 MB
+2025-05-15 05:36:44,957 - INFO - Backup Size: 7.88 MB
+2025-05-15 05:37:30,020 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg...
+2025-05-15 05:37:30,068 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg', '12', '/mnt/d/bluetooth/backup/decrypted_backup.tar.gz']' returned non-zero exit status 1.
+2025-05-15 05:37:37,854 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg...
+2025-05-15 05:37:37,896 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg', '12345678', '/mnt/d/bluetooth/backup/decrypted_backup.tar.gz']' returned non-zero exit status 1.
+2025-05-15 05:37:51,843 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg...
+2025-05-15 05:37:51,885 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg', '12345678', '/mnt/d/bluetooth/backup/decrypted_backup.tar.gz']' returned non-zero exit status 1.
+2025-05-15 05:37:52,674 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg...
+2025-05-15 05:37:52,719 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg', '12345678', '/mnt/d/bluetooth/backup/decrypted_backup.tar.gz']' returned non-zero exit status 1.
+2025-05-15 05:37:52,874 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg...
+2025-05-15 05:37:52,916 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg', '12345678', '/mnt/d/bluetooth/backup/decrypted_backup.tar.gz']' returned non-zero exit status 1.
+2025-05-15 05:37:53,036 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg...
+2025-05-15 05:37:53,079 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg', '12345678', '/mnt/d/bluetooth/backup/decrypted_backup.tar.gz']' returned non-zero exit status 1.
+2025-05-15 05:37:53,191 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg...
+2025-05-15 05:37:53,231 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg', '12345678', '/mnt/d/bluetooth/backup/decrypted_backup.tar.gz']' returned non-zero exit status 1.
+2025-05-15 05:37:53,353 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg...
+2025-05-15 05:37:53,401 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg', '12345678', '/mnt/d/bluetooth/backup/decrypted_backup.tar.gz']' returned non-zero exit status 1.
+2025-05-15 05:38:59,030 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg...
+2025-05-15 05:38:59,041 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg', '12345678', '/mnt/d/bluetooth/backup/decrypted_backup.tar.gz']' returned non-zero exit status 127.
+2025-05-15 05:39:10,265 - INFO - Decrypting /mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg...
+2025-05-15 05:39:10,306 - INFO - Decryption failed: Command '['bash', 'scripts/decrypt.sh', '/mnt/d/bluetooth/backup/backup.tar.tar.gz.gpg', '12345678', '/mnt/d/bluetooth/backup/decrypted_backup.tar.gz']' returned non-zero exit status 1.
+2025-05-15 05:50:02,106 - INFO - Compression failed: Command '['bash', 'scripts/compress.sh', '/mnt/d/bluetooth/backup/linbackup_temp', '/mnt/d/bluetooth/backup/backup.tar']' returned non-zero exit status 1.
+2025-05-15 05:50:10,438 - INFO - Compression failed: Command '['bash', 'scripts/compress.sh', '/mnt/d/bluetooth/backup/linbackup_temp', '/mnt/d/bluetooth/backup/backup.tar']' returned non-zero exit status 1.
+2025-05-15 05:50:59,651 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:52:56,109 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:52:57,122 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:52:57,123 - INFO - Original Size: 7.88 MB
+2025-05-15 05:52:57,125 - INFO - Backup Size: 7.88 MB
+2025-05-15 05:53:11,898 - INFO - Compressing backup via shell script...
+2025-05-15 05:53:13,538 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:53:15,086 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 05:53:15,087 - INFO - Original Size: 15.80 MB
+2025-05-15 05:53:15,095 - INFO - Compressed Backup Size: 15.84 MB
+2025-05-15 05:53:38,111 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:53:39,017 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 05:53:39,018 - INFO - Original Size: 7.88 MB
+2025-05-15 05:53:39,020 - INFO - Backup Size: 7.88 MB
+2025-05-15 05:56:36,337 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar
+2025-05-15 05:56:36,340 - INFO - Original Size: 7.88 MB
+2025-05-15 05:56:36,341 - INFO - Backup Size: 7.88 MB
+2025-05-15 06:28:52,162 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar
+2025-05-15 06:28:52,163 - INFO - Original Size: 7.88 MB
+2025-05-15 06:28:52,163 - INFO - Backup Size: 7.88 MB
+2025-05-15 06:29:09,064 - INFO - Compressing backup via shell script...
+2025-05-15 06:29:09,402 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 06:29:10,063 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 06:29:10,064 - INFO - Original Size: 7.88 MB
+2025-05-15 06:29:10,067 - INFO - Compressed Backup Size: 7.91 MB
+2025-05-15 06:34:59,874 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz
+2025-05-15 06:34:59,875 - INFO - Original Size: 15.79 MB
+2025-05-15 06:34:59,875 - INFO - Backup Size: 15.79 MB
+2025-05-15 06:35:07,295 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz
+2025-05-15 06:35:07,296 - INFO - Original Size: 7.88 MB
+2025-05-15 06:35:07,297 - INFO - Backup Size: 7.88 MB
+2025-05-15 06:35:11,611 - INFO - Compressing backup via shell script...
+2025-05-15 06:35:12,222 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 06:35:12,717 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.tar.gz
+2025-05-15 06:35:12,717 - INFO - Original Size: 15.75 MB
+2025-05-15 06:35:12,719 - INFO - Compressed Backup Size: 15.82 MB
+2025-05-15 06:38:25,350 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz
+2025-05-15 06:38:25,351 - INFO - Original Size: 7.88 MB
+2025-05-15 06:38:25,352 - INFO - Backup Size: 7.88 MB
+2025-05-15 06:38:29,490 - INFO - Compressing backup via shell script...
+2025-05-15 06:38:30,169 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar
+2025-05-15 06:38:30,826 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar
+2025-05-15 06:38:30,827 - INFO - Original Size: 15.75 MB
+2025-05-15 06:38:30,829 - INFO - Compressed Backup Size: 15.82 MB
+2025-05-15 06:38:36,178 - INFO - Encrypting backup using GPG...
+2025-05-15 06:38:36,200 - INFO - Encryption failed: Command '['gpg', '--batch', '--yes', '--symmetric', '--cipher-algo', 'AES256', '/mnt/d/bluetooth/backup/backup.tar.gz']' returned non-zero exit status 2.
+2025-05-15 06:41:20,213 - INFO - Encrypting backup using GPG...
+2025-05-15 06:41:20,234 - INFO - Encryption failed: Command '['gpg', '--batch', '--yes', '--symmetric', '--cipher-algo', 'AES256', '/mnt/d/bluetooth/backup/backup.tar.gz.tar.gz']' returned non-zero exit status 2.
+2025-05-15 06:42:11,223 - INFO - Encrypting backup using GPG...
+2025-05-15 06:42:42,439 - INFO - Encryption failed: Command '['gpg', '--batch', '--yes', '--symmetric', '--cipher-algo', 'AES256', '/mnt/d/bluetooth/backup/backup.tar']' died with <Signals.SIGINT: 2>.
+2025-05-15 06:46:33,282 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar
+2025-05-15 06:46:33,283 - INFO - Original Size: 7.88 MB
+2025-05-15 06:46:33,284 - INFO - Backup Size: 7.88 MB
+2025-05-15 06:46:41,811 - INFO - Compressing backup via shell script...
+2025-05-15 06:46:42,153 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 06:46:42,544 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 06:46:42,545 - INFO - Original Size: 7.88 MB
+2025-05-15 06:46:42,547 - INFO - Compressed Backup Size: 7.91 MB
+2025-05-15 06:47:17,031 - INFO - Compressing backup via shell script...
+2025-05-15 06:47:17,915 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 06:47:18,666 - INFO - Encrypting backup using GPG...
+2025-05-15 06:47:34,106 - INFO - Encryption complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg
+2025-05-15 06:47:34,108 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz.gpg
+2025-05-15 06:47:34,109 - INFO - Original Size: 23.27 MB
+2025-05-15 06:47:34,114 - INFO - Compressed Backup Size: 22.51 MB
+2025-05-15 06:52:44,203 - INFO - Backup complete. Saved to: /mnt/d/bluetooth/backup/backup.tar
+2025-05-15 06:52:44,204 - INFO - Original Size: 52.83 MB
+2025-05-15 06:52:44,205 - INFO - Backup Size: 52.83 MB
+2025-05-15 06:53:30,304 - INFO - Encrypting backup using GPG...
+2025-05-15 06:53:30,331 - INFO - Encryption failed: Command '['gpg', '--batch', '--yes', '--symmetric', '--cipher-algo', 'AES256', '/mnt/d/bluetooth/backup/backup.tar']' returned non-zero exit status 2.
+2025-05-15 06:54:05,536 - INFO - Compressing backup via shell script...
+2025-05-15 06:54:13,147 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 06:54:19,126 - INFO - Encrypting backup using GPG...
+2025-05-15 06:54:46,420 - INFO - Encrypting backup using GPG...
+2025-05-15 06:54:46,424 - INFO - Encryption failed: Command '['gpg', '--batch', '--yes', '--symmetric', '--cipher-algo', 'AES256', '/mnt/d/bluetooth/backup/backup.tar']' returned non-zero exit status 2.
+2025-05-15 06:54:52,795 - INFO - Encryption failed: Command '['gpg', '--batch', '--yes', '--symmetric', '--cipher-algo', 'AES256', '/mnt/d/bluetooth/backup/backup.tar.gz.tar.gz']' died with <Signals.SIGINT: 2>.
+2025-05-15 06:55:45,461 - INFO - Compressing backup via shell script...
+2025-05-15 06:56:14,991 - INFO - Compression complete: /mnt/d/bluetooth/backup/backup.tar.gz.tar.gz
+2025-05-15 06:56:39,518 - INFO - Encrypting backup using GPG...
+2025-05-15 06:56:47,033 - INFO - Encryption failed: Command '['gpg', '--batch', '--yes', '--symmetric', '--cipher-algo', 'AES256', '/mnt/d/bluetooth/backup/backup.tar.gz.tar.gz']' died with <Signals.SIGINT: 2>.
+2025-05-15 06:57:55,963 - INFO - [Error copying] /mnt/d/bluetooth/backup/linbackup_temp/backup/backup.tar.gz: [Errno 2] No such file or directory: '/mnt/d/bluetooth/backup/linbackup_temp/backup/backup.tar.gz'
+2025-05-15 06:57:56,000 - INFO - [Error copying] /mnt/d/bluetooth/backup/linbackup_temp/backup/backup.tar.gz.tar.gz: [Errno 2] No such file or directory: '/mnt/d/bluetooth/backup/linbackup_temp/backup/backup.tar.gz.tar.gz'
+2025-05-15 06:57:56,001 - INFO - Encrypting backup using GPG...
+2025-05-15 06:57:56,020 - INFO - Encryption failed: Command '['gpg', '--batch', '--yes', '--symmetric', '--cipher-algo', 'AES256', '/mnt/d/bluetooth/backup/backup.tar']' returned non-zero exit status 2.
+2025-05-15 12:29:11,951 - INFO - Encrypting backup using GPG...
+2025-05-15 12:29:12,090 - INFO - Encryption failed: Command '['gpg', '--batch', '--yes', '--symmetric', '--cipher-algo', 'AES256', 'D:/bluetooth/backup\\backup.tar']' returned non-zero exit status 2.
+2025-05-15 12:29:19,657 - INFO - Compressing backup via shell script...
+2025-05-15 12:29:22,799 - INFO - Compression failed: Command '['bash', 'scripts/compress.sh', 'D:/bluetooth/backup\\linbackup_temp', 'D:/bluetooth/backup\\backup.tar.gz']' returned non-zero exit status 2.
+2025-05-15 12:33:47,114 - INFO - No files found in source directory.
+2025-05-15 12:33:48,498 - INFO - No files found in source directory.
+2025-05-15 12:33:53,973 - INFO - Compressing backup via shell script...
+2025-05-15 12:33:54,185 - INFO - Compression failed: Command '['bash', 'scripts/compress.sh', 'D:/bluetooth/backup\\linbackup_temp', 'D:/bluetooth/backup\\backup.tar.gz']' returned non-zero exit status 2.
+2025-05-15 12:36:14,302 - INFO - Decrypting D:/bluetooth/backup/backup.tar.gz.gpg...
+2025-05-15 12:36:14,630 - INFO - Decryption successful.
+2025-05-15 12:36:14,631 - INFO - Extracting D:/bluetooth/backup\decrypted_backup.tar.gz...
+2025-05-15 12:36:14,791 - INFO - Backup extracted to: D:/bluetooth/backup
+2025-05-15 12:36:14,794 - INFO - Decrypted file removed.
+2025-05-15 12:37:49,832 - INFO - Decrypting D:/bluetooth/backup/backup.tar.gz.gpg...
+2025-05-15 12:37:50,378 - INFO - Decryption successful.
+2025-05-15 12:37:50,378 - INFO - Extracting D:/bluetooth/backup\decrypted_backup.tar.gz...
+2025-05-15 12:37:50,485 - INFO - Backup extracted to: D:/bluetooth/backup
+2025-05-15 12:37:50,487 - INFO - Decrypted file removed.
+2025-05-15 12:38:55,440 - INFO - Decrypting D:/bluetooth/backup/backup.tar.gz.gpg...
+2025-05-15 12:38:55,477 - INFO - Decryption failed: Command '['gpg', '--batch', '--yes', '--passphrase', '', '--output', 'D:/bluetooth/backup\\decrypted_backup.tar.gz', '--decrypt', 'D:/bluetooth/backup/backup.tar.gz.gpg']' returned non-zero exit status 2.
+2025-05-15 12:39:02,451 - INFO - Decrypting D:/bluetooth/backup/backup.tar.gz.gpg...
+2025-05-15 12:39:02,670 - INFO - Decryption successful.
+2025-05-15 12:39:02,670 - INFO - Extracting D:/bluetooth/backup\decrypted_backup.tar.gz...
+2025-05-15 12:39:02,792 - INFO - Backup extracted to: D:/bluetooth/backup
+2025-05-15 12:39:02,794 - INFO - Decrypted file removed.
+2025-05-24 19:43:18,880 - INFO - Creating uncompressed archive for encryption...
+2025-05-24 19:43:18,938 - INFO - Encrypting backup using GPG...
+2025-05-24 19:43:35,822 - INFO - Encryption complete: D:/bluetooth/backup\backup.tar.gpg
+2025-05-24 19:43:35,824 - INFO - Backup summary saved to: D:/bluetooth/backup\backup_report.txt
+2025-05-24 19:43:35,825 - INFO - Backup complete. Saved to: D:/bluetooth/backup\backup.tar.gpg
+2025-05-24 19:43:35,826 - INFO - Original Size: 7.88 MB
+2025-05-24 19:43:35,826 - INFO - Backup Size: 7.88 MB
